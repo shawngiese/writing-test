@@ -60,3 +60,9 @@ In either case, send the zip file or the link to your git repo to:
 * ashraf.khamis@magnolia-cms.com
 * martin.drapela@magnolia-cms.com
 * alex.mansell@magnolia-cms.com
+
+====
+Good luck! 
+
+Check out our tips for writing in link:https://docs.magnolia-cms.com/product-docs/6.2/contribute/writing-toolkit.html[asciidoc^].
+====
