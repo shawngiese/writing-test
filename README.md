@@ -6,7 +6,7 @@ Clone this repository and complete the challenges.
 
 Write your answers in [asciidoc syntax](https://docs.asciidoctor.org/asciidoc/latest/#about-asciidoc). Check out our tips for writing in [asciidoc](https://docs.magnolia-cms.com/product-docs/6.2/contribute/writing-toolkit.html).
 
-> **Note**: This README is in markdown so that it auto-renders the preview. 
+> **Note**: This README is in markdown so that it auto-renders the preview in Bitbucket. 
 
 
 ## Challenge 1
