@@ -55,12 +55,9 @@ Your audience is someone technical, but new to [version control](https://en.wiki
 
 ## Submit your responses
 
-You can submit your responses in one of two ways:
+Submit your response by hosting the files in a git hosting service (*GitHub, Bitbucket, GitLab*). Provide us with a link to the repository.
 
-1. Zip the `writing-test` folder.
-2. Host the answers in a git repo.
-
-In either case, send the zip file or the link to your git repo to:
+Send the link to:
 
 * julie.legendre@magnolia-cms.com
 * ashraf.khamis@magnolia-cms.com
