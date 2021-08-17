@@ -4,6 +4,8 @@ This test contains two challenges. The challenges must be completed within *3* d
 
 Clone this repository and complete the challenges.
 
+{sp} +
+
 ====
 Good luck! 
 
