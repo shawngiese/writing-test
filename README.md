@@ -32,7 +32,7 @@ In this challenge, we want to get an idea of your writing style as it relates to
 > * Adding an extension to [Visual Studio Code](https://code.visualstudio.com/).
 > * Taking a screenshot with an [iPhone](https://www.apple.com/iphone/).
 
-**TIP** Keep the task concise. There's no need to over-complicate the instructions.
+**TIP:** Keep the task concise. There's no need to over-complicate the instructions.
 
 **Where do I answer?**
 > In the `/modules/ROOT/pages/challenge-1.adoc` file, in the "Answer" section.
