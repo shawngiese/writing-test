@@ -56,7 +56,7 @@ You can submit your responses in one of two ways:
 
 In either case, send the zip file or the link to your git repo to:
 
-* mailto:julie.legendre@magnolia-cms.com[Julie]
-* mailto:ashraf.khamis@magnolia-cms.com[Ashraf]
-* mailto:martin.drapela@magnolia-cms.com[Martin]
-* mailto:alex.mansell@magnolia-cms.com[Alex]
+* julie.legendre@magnolia-cms.com
+* ashraf.khamis@magnolia-cms.com
+* martin.drapela@magnolia-cms.com
+* alex.mansell@magnolia-cms.com
