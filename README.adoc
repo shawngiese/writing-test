@@ -29,7 +29,7 @@ Some ideas to get you started:
 TIP: Keep the task concise. There's no need to over-complicate the instructions.
 
 Where do I answer?::
-In the xref:./modules/ROOT/pages/challenge-1.adoc[] file, in the "Answer" section.
+In the `challenge-1.adoc` file, in the "Answer" section.
 
 == Challenge 2
 
@@ -45,7 +45,7 @@ Your audience is someone technical, but new to link:https://en.wikipedia.org/wik
 . Give examples on how to use it.
 
 Where do I answer?::
-In the xref:./modules/ROOT/pages/challenge-1.adoc[] file, in the "Answer" section.
+In the `challenge-2.adoc` file, in the "Answer" section.
 
 == Submit your responses
 
