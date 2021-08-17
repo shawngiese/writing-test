@@ -47,8 +47,8 @@ Your audience is someone technical, but new to [version control](https://en.wiki
 
 ### Instructions
 
-. Explain what a merge request/pull request is.
-. Give examples on how to use it.
+1. Explain what a merge request/pull request is.
+2. Give examples on how to use it.
 
 **Where do I answer?**
 > In the `/modules/ROOT/pages/challenge-2.adoc` file, in the "Answer" section.
