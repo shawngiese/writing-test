@@ -6,7 +6,9 @@ Clone this repository and complete the challenges.
 
 Good luck! 
 
-> **TIP:** Check out our tips for writing in https://docs.magnolia-cms.com/product-docs/6.2/contribute/writing-toolkit.html[asciidoc^].
+> **TIP:** Check out our tips for writing in [asciidoc^](https://docs.magnolia-cms.com/product-docs/6.2/contribute/writing-toolkit.html).
+
+> **Note**: This README is in markdown so that it auto-renders the preview. 
 
 
 ## Challenge 1
