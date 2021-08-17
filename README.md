@@ -55,7 +55,5 @@ Your audience is someone technical, but new to [version control](https://en.wiki
 
 Submit your response by hosting the files in a git hosting service (*GitHub, Bitbucket, GitLab*). Provide us with a link to the repository.
 
-Send the link to:
-
-* martina.weiss@magnolia-cms.com
+Send the link via email to martina.weiss@magnolia-cms.com with the subject line "Technical Writer: Challenge".
 
