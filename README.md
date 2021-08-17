@@ -57,7 +57,5 @@ Submit your response by hosting the files in a git hosting service (*GitHub, Bit
 
 Send the link to:
 
-* julie.legendre@magnolia-cms.com
-* ashraf.khamis@magnolia-cms.com
-* martin.drapela@magnolia-cms.com
-* alex.mansell@magnolia-cms.com
+* martina.weiss@magnolia-cms.com
+
