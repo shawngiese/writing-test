@@ -1,0 +1,3 @@
+* xref:index.adoc[]
+* xref:challenge-1.adoc[]
+* xref:challenge-2.adoc[]

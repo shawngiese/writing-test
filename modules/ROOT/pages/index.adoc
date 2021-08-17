@@ -1,0 +1,13 @@
+= Magnolia writing test
+ 
+This writing test contains two challenges:
+
+* xref:challenge-1.adoc[]
+* xref:challenge-2.adoc[]
+
+====
+Good luck! 
+
+Check out our tips for writing in link:https://docs.magnolia-cms.com/product-docs/6.2/contribute/writing-toolkit.html[asciidoc^].
+====
+

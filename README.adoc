@@ -1,0 +1,62 @@
+= Welcome to the Magnolia writing test
+
+This test contains two challenges. The challenges must be completed within *3* days of receiving the challenge.
+
+Clone this repository and complete the challenges.
+
+== Challenge 1
+
+Your first challenge awaits! 
+
+In this challenge, we want to get an idea of your writing style as it relates to software and computer technology.
+
+== Instructions
+
+. Choose any software or application that you use regularly.
+. Write instructions on how to perform a common task related to the software or application.
+
+.Example please?
+****
+Some ideas to get you started:
+
+* Sending an attachment in link:https://signal.org/[Signal^].
+* Forwarding an email with link:https://www.google.com/gmail/about/[Gmail^].
+* Publishing a blog post with link:https://wordpress.com/[Wordpress^].
+* Adding a plugin to link:https://code.visualstudio.com/[Visual Studio Code^].
+* Taking a screenshot with an link:https://www.apple.com/iphone/[iPhone^].
+****
+
+TIP: Keep the task concise. There's no need to over-complicate the instructions.
+
+Where do I answer?::
+In the `challenge-1.adoc` file, in the "Answer" section.
+
+== Challenge 2
+
+Your second challenge awaits! 
+
+In this challenge, we want to see how comfortable you are explaining a technical topic.
+
+Your audience is someone technical, but new to link:https://en.wikipedia.org/wiki/Version_control[version control^].
+
+== Instructions
+
+. Explain what a merge request/pull request is.
+. Give examples on how to use it.
+
+Where do I answer?::
+In the `challenge-2.adoc` file, in the "Answer" section.
+
+== Submit your responses
+
+You can submit your responses in one of two ways:
+
+. Zip the `writing-test` folder.
+. Host the answers in a git repo.
+
+In either case, send the zip file or the link to your git repo to:
+
+* link:mailto:julie.legendre@magnolia-cms.com[Julie]
+* link:mailto:ashraf.khamis@magnolia-cms.com[Ashraf]
+* link:mailto:martin.drapela@magnolia-cms.com[Martin]
+* link:mailto:alex.mansell@magnolia-cms.com[Alex]

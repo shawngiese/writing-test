@@ -1,0 +1,5 @@
+name: writing-test
+title: Writing Test
+version: master
+nav:
+ - modules/ROOT/nav.adoc
