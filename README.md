@@ -4,7 +4,7 @@ This test contains two challenges. The challenges must be completed within *3* d
 
 Clone this repository and complete the challenges.
 
-> **TIP:** Write your answers in [asciidoc syntax](https://docs.asciidoctor.org/asciidoc/latest/#about-asciidoc). Check out our tips for writing in [asciidoc](https://docs.magnolia-cms.com/product-docs/6.2/contribute/writing-toolkit.html).
+Write your answers in [asciidoc syntax](https://docs.asciidoctor.org/asciidoc/latest/#about-asciidoc). Check out our tips for writing in [asciidoc](https://docs.magnolia-cms.com/product-docs/6.2/contribute/writing-toolkit.html).
 
 > **Note**: This README is in markdown so that it auto-renders the preview. 
 
