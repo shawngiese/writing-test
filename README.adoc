@@ -22,7 +22,7 @@ Some ideas to get you started:
 * Sending an attachment in link:https://signal.org/[Signal^].
 * Forwarding an email with link:https://www.google.com/gmail/about/[Gmail^].
 * Publishing a blog post with link:https://wordpress.com/[Wordpress^].
-* Adding a plugin to link:https://code.visualstudio.com/[Visual Studio Code^].
+* Adding an extension to link:https://code.visualstudio.com/[Visual Studio Code^].
 * Taking a screenshot with an link:https://www.apple.com/iphone/[iPhone^].
 ****
 
