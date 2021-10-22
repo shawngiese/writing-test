@@ -24,4 +24,36 @@ TIP: Keep the task concise. There's no need to over-complicate the instructions.
 
 == Answer
 
-// your answer goes here
+== Forwarding an email with Gmail
+These steps use the web browser interface for Gmail. If you receive your Gmail messages in a different application, consult that application for the steps to forward email messages.
+
+You can resend a copy of an email to a different person or email group by completing the following steps:
+
+. Open Gmail in your web browser. The common URL for this is https://mail.google.com/.
+
+. Open the email message that you want to forward.
+
+. Choose Forward at the bottom of the email message.
++
+A new email message appears with the contents of the message you opened.
+
+. If a confirmation appears asking you to confirm forward without all images, see the _Image confirmation message_ section.
+
+. In To, type the email address where you want to forward the email. If you type more than one email address, add a space between each email address.
+
+. Optionally add text to the new email by typing your content before the line "---------- Forwarded message ---------"
+
+. Choose Send to forward the new message.
+
+Your forwarded email subject reuses the subject of the original email and adds the letters "Fwd: " to the beginning.
+
+=== Image confirmation message
+If a confirmation appears asking you to "confirm forward without all images" you must choose one of the options. This occurs when the email includes images but you are not displaying images. In the confirmation choose:
+
+* **OK** if you accept that the recipient of the forwarded email will not be able to see the missing images.
+* **Cancel** to stop the forward process and return to the original email. 
++
+Optionally select "Display images below" at the top of the original email to enable images and then select Forward to restart the process.
+
+=== Gmail basic HTML view
+If you use the Gmail basic HTML view, the Forward button is in the top of your email message. You can identify the basic HTML view because the top of the web page displays a text menu of Google services such as Maps and YouTube.

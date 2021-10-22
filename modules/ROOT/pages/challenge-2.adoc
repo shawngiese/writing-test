@@ -13,4 +13,51 @@ Your audience is someone technical, but new to link:https://en.wikipedia.org/wik
 
 == Answer
 
-// your answer goes here
+== About merge requests / pull requests
+
+A merge request, also called a pull request, is a method to ask that your changes in one or more files is added into a file repository that uses version control. Someone who is responsible for those files reviews the requested change and accepts, rejects, tests or asks questions about the change. If your merge request is approved, your changes are added into the code.
+
+This approval step enables review and testing before accepting the changes. Additionally, the version control system tracks who made the request, when it was requested, a list of changes, and any comments. This tracking process enables the company to go back to an earlier version of the website if there are any problems and to track what was changed and who changed it.
+
+For example, your company stores the files for the company website in a version control file repository. A marketing editor wants to make changes to the web textand a manager wants to change some legal text. Both can copy the latest version of the website. After completing their changes, each one makes a merge request to send their changes back into the file repository. 
+
+In this example, the person responsible for the website reviews the changes, resolves any issues, and accepts or rejects the request. If the merge request is accepted, the next time the company releases a new version of their web site, the changes are included.
+
+=== Using a merge request
+
+The merge request can fit into many workflows depending on your project and file repository. The exact commands or web interfaces to use in a merge request depend on what software your company uses and how that software is configured.
+
+Contact the person managing your file repository to ask about the steps and commands to make merge requests in your organization.
+
+.Example in context
+The following example shows a workflow where a merge request is used. This example uses GitLab.com as the file repository and assumes you have already installed git and authenticated to GitLab.
+
+. Open a terminal console on your computer.
+
+. Make a copy of a project from a git file repository.
+
+  git clone git@gitlab.com:gitlab-tests/sample-website.git
+
+. Navigate into the project files.
+
+  cd sample-website
+
+. Create a branch where you will make changes.
+
+  git checkout -b branch-to-make-changes
+
+. Make changes to a file, such as adding a word to a text file.
+
+. Run tests as needed.
+
+. Commit your changes to your local git file repository.
+
+  git commit -am "grammar corrections"
+
+. Push your changes to the central file repository and make a merge request with the merge_request.create option.
+
+  git push --set-upstream origin branch-to-make-changes -o merge_request.create
++
+The person responsible for the file repository is notified of your merge request and decides if the change is accepted. 
+
+
