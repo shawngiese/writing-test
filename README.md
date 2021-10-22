@@ -51,9 +51,4 @@ Your audience is someone technical, but new to [version control](https://en.wiki
 **Where do I answer?**
 > In the `/modules/ROOT/pages/challenge-2.adoc` file, in the "Answer" section.
 
-## Submit your responses
-
-Submit your response by hosting the files in a git hosting service (*GitHub, Bitbucket, GitLab*). Provide us with a link to the repository.
-
-Send the link via email to martina.weiss@magnolia-cms.com with the subject line "Technical Writer: Challenge".
 
